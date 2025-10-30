@@ -1,14 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# extraire le texte de cette image
-
-Voici le texte extrait de l'image :
-
-***
-TP – P.O.O
-Langage Java – 4IIR
-
-**Exercice 3 : Gestion d’un magasin de vêtements avec Streams**
+Gestion d’un magasin de vêtements avec Streams**
 
 **1 - Créer une classe Vetement :**
 Chaque vêtement est représenté par un objet ClothingItem contenant les informations suivantes :
